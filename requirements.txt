@@ -1,0 +1,4 @@
+Python 3.10 or above
+Streamlit
+Google GenAI
+Gemini API key
